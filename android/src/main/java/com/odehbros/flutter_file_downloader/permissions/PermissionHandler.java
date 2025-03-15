@@ -1,4 +1,4 @@
-package com.sherazi.flutter_file_downloader.permissions;
+package com.odehbros.flutter_file_downloader.permissions;
 
 import android.Manifest;
 import android.app.Activity;
@@ -10,9 +10,9 @@ import android.util.Log;
 
 import androidx.core.app.ActivityCompat;
 
-import com.sherazi.flutter_file_downloader.errors.ErrorCallback;
-import com.sherazi.flutter_file_downloader.errors.ErrorCodes;
-import com.sherazi.flutter_file_downloader.errors.PermissionUndefinedException;
+import com.odehbros.flutter_file_downloader.errors.ErrorCallback;
+import com.odehbros.flutter_file_downloader.errors.ErrorCodes;
+import com.odehbros.flutter_file_downloader.errors.PermissionUndefinedException;
 
 import java.util.Arrays;
 import java.util.List;

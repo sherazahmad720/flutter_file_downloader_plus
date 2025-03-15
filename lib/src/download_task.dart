@@ -1,4 +1,4 @@
-part of 'flutter_file_downloader_plus.dart';
+part of 'flutter_file_downloader.dart';
 
 ///The download task model to store some unique vars
 class _PluginTask {

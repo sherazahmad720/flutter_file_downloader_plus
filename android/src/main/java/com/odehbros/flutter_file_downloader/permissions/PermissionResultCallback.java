@@ -1,4 +1,4 @@
-package com.sherazi.flutter_file_downloader.permissions;
+package com.odehbros.flutter_file_downloader.permissions;
 
 @FunctionalInterface
 public interface PermissionResultCallback {

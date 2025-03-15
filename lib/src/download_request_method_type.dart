@@ -1,4 +1,4 @@
-part of 'flutter_file_downloader_plus.dart';
+part of 'flutter_file_downloader.dart';
 
 enum DownloadRequestMethodType {
   ///download a file via GET request [Default]

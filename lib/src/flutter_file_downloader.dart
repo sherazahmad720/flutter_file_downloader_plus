@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_file_downloader_plus/flutter_file_downloader_plus.dart';
+import 'package:flutter_file_downloader/src/download_file_request.dart';
 
 import 'download_callbacks.dart';
 

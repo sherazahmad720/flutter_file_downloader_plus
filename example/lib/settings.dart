@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_file_downloader/flutter_file_downloader_plus.dart';
-
+import 'package:flutter_file_downloader/flutter_file_downloader.dart';
 import 'package:flutter_file_downloader_example/sesstion_settings.dart';
 
 class SettingsScreen extends StatefulWidget {

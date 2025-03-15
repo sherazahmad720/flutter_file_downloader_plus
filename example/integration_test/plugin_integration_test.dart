@@ -8,7 +8,7 @@
 
 import 'dart:async';
 
-import 'package:flutter_file_downloader/flutter_file_downloader_plus.dart';
+import 'package:flutter_file_downloader/flutter_file_downloader.dart';
 import 'package:flutter_file_downloader_example/main.dart';
 import 'package:flutter_file_downloader_example/preferences_manager.dart';
 import 'package:flutter_test/flutter_test.dart';

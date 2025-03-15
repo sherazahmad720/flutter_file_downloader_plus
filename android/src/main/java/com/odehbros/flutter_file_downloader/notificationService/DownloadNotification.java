@@ -1,4 +1,4 @@
-package com.sherazi.flutter_file_downloader.notificationService;
+package com.odehbros.flutter_file_downloader.notificationService;
 
 import android.Manifest;
 import android.app.Notification;

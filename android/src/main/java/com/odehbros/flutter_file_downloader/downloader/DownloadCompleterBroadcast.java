@@ -1,17 +1,17 @@
-package com.sherazi.flutter_file_downloader.downloader;
+package com.odehbros.flutter_file_downloader.downloader;
 
 import android.app.DownloadManager;
 import android.content.BroadcastReceiver;
 
-import com.sherazi.flutter_file_downloader.MethodCallHandlerImpl;
+import com.odehbros.flutter_file_downloader.MethodCallHandlerImpl;
 
 import android.content.Context;
 import android.content.Intent;
 import android.database.Cursor;
 import android.util.Log;
 
-import com.sherazi.flutter_file_downloader.core.DownloadCallbacks;
-import com.sherazi.flutter_file_downloader.StoreHelper;
+import com.odehbros.flutter_file_downloader.core.DownloadCallbacks;
+import com.odehbros.flutter_file_downloader.StoreHelper;
 
 public class DownloadCompleterBroadcast extends BroadcastReceiver {
     final MethodCallHandlerImpl methodCallHandler;

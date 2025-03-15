@@ -1,6 +1,6 @@
-package com.sherazi.flutter_file_downloader.fileStore;
+package com.odehbros.flutter_file_downloader.fileStore;
 
-import com.sherazi.flutter_file_downloader.PluginLogger;
+import com.odehbros.flutter_file_downloader.PluginLogger;
 
 import java.io.File;
 

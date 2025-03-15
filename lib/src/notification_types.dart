@@ -1,4 +1,4 @@
-part of 'flutter_file_downloader_plus.dart';
+part of 'flutter_file_downloader.dart';
 
 enum NotificationType {
   ///this will show all download notifications, progress, failed, completed

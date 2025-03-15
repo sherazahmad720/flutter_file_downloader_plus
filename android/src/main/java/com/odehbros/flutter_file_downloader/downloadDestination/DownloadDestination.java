@@ -1,4 +1,4 @@
-package com.sherazi.flutter_file_downloader.downloadDestination;
+package com.odehbros.flutter_file_downloader.downloadDestination;
 
 import java.io.File;
 

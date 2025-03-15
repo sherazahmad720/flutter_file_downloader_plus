@@ -2,8 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_file_downloader/flutter_file_downloader_plus.dart';
-
+import 'package:flutter_file_downloader/flutter_file_downloader.dart';
 import 'package:flutter_file_downloader_example/sesstion_settings.dart';
 
 class SingleDownloadScreen extends StatefulWidget {
