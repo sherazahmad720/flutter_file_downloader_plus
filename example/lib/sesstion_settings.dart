@@ -1,4 +1,4 @@
-import 'package:flutter_file_downloader/flutter_file_downloader.dart';
+import 'package:flutter_file_downloader/flutter_file_downloader_plus.dart';
 
 class SessionSettings {
   static SessionSettings? _instance;
