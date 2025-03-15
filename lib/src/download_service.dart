@@ -1,4 +1,4 @@
-part of 'flutter_file_downloader.dart';
+part of 'flutter_file_downloader_plus.dart';
 
 enum DownloadService {
   ///this is the recommended way to download any file in android OS

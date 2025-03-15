@@ -1,6 +1,6 @@
-package com.odehbros.flutter_file_downloader;
+package com.sherazi.flutter_file_downloader;
 
-import com.odehbros.flutter_file_downloader.downloader.DownloadService;
+import com.sherazi.flutter_file_downloader.downloader.DownloadService;
 
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;

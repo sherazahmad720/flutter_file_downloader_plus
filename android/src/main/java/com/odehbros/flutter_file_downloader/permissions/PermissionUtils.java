@@ -1,10 +1,10 @@
-package com.odehbros.flutter_file_downloader.permissions;
+package com.sherazi.flutter_file_downloader.permissions;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 
-import com.odehbros.flutter_file_downloader.errors.PermissionUndefinedException;
+import com.sherazi.flutter_file_downloader.errors.PermissionUndefinedException;
 
 import java.util.ArrayList;
 import java.util.List;

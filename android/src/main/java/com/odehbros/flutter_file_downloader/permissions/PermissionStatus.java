@@ -1,4 +1,4 @@
-package com.odehbros.flutter_file_downloader.permissions;
+package com.sherazi.flutter_file_downloader.permissions;
 
 public enum PermissionStatus {
     /// Permission to access the storage is denied by the user.

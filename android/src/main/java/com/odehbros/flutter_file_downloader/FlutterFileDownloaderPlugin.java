@@ -1,4 +1,4 @@
-package com.odehbros.flutter_file_downloader;
+package com.sherazi.flutter_file_downloader;
 
 import android.app.DownloadManager;
 import android.content.ComponentName;
@@ -20,8 +20,8 @@ import io.flutter.plugin.common.MethodChannel.Result;
 import io.flutter.embedding.engine.plugins.activity.ActivityAware;
 import io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding;
 
-import com.odehbros.flutter_file_downloader.permissions.PermissionHandler;
-import com.odehbros.flutter_file_downloader.downloader.DownloadCompleterBroadcast;
+import com.sherazi.flutter_file_downloader.permissions.PermissionHandler;
+import com.sherazi.flutter_file_downloader.downloader.DownloadCompleterBroadcast;
 
 /**
  * FlutterFileDownloaderPlugin

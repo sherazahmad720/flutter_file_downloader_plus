@@ -1,4 +1,4 @@
-package com.odehbros.flutter_file_downloader;
+package com.sherazi.flutter_file_downloader;
 
 import android.Manifest;
 import android.app.Activity;
@@ -9,17 +9,17 @@ import android.util.Log;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.odehbros.flutter_file_downloader.core.DownloadCallbacks;
-import com.odehbros.flutter_file_downloader.core.DownloadTask;
-import com.odehbros.flutter_file_downloader.downloadDestination.AppData;
-import com.odehbros.flutter_file_downloader.downloadDestination.DownloadDestination;
-import com.odehbros.flutter_file_downloader.downloadDestination.PublicDownloads;
-import com.odehbros.flutter_file_downloader.downloader.DownloadService;
-import com.odehbros.flutter_file_downloader.errors.ErrorCodes;
-import com.odehbros.flutter_file_downloader.errors.PermissionUndefinedException;
-import com.odehbros.flutter_file_downloader.fileStore.FileStoreHandler;
-import com.odehbros.flutter_file_downloader.permissions.PermissionHandler;
-import com.odehbros.flutter_file_downloader.permissions.PermissionStatus;
+import com.sherazi.flutter_file_downloader.core.DownloadCallbacks;
+import com.sherazi.flutter_file_downloader.core.DownloadTask;
+import com.sherazi.flutter_file_downloader.downloadDestination.AppData;
+import com.sherazi.flutter_file_downloader.downloadDestination.DownloadDestination;
+import com.sherazi.flutter_file_downloader.downloadDestination.PublicDownloads;
+import com.sherazi.flutter_file_downloader.downloader.DownloadService;
+import com.sherazi.flutter_file_downloader.errors.ErrorCodes;
+import com.sherazi.flutter_file_downloader.errors.PermissionUndefinedException;
+import com.sherazi.flutter_file_downloader.fileStore.FileStoreHandler;
+import com.sherazi.flutter_file_downloader.permissions.PermissionHandler;
+import com.sherazi.flutter_file_downloader.permissions.PermissionStatus;
 
 import java.io.File;
 import java.util.HashMap;

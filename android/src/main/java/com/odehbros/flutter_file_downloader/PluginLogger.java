@@ -1,4 +1,4 @@
-package com.odehbros.flutter_file_downloader;
+package com.sherazi.flutter_file_downloader;
 
 import android.util.Log;
 

@@ -1,4 +1,4 @@
-part of 'flutter_file_downloader.dart';
+part of 'flutter_file_downloader_plus.dart';
 
 enum DownloadDestinations {
   ///this indicates the shared Downloads folder in the device,

@@ -1,18 +1,18 @@
-package com.odehbros.flutter_file_downloader.core;
+package com.sherazi.flutter_file_downloader.core;
 
 import android.app.Activity;
 import android.text.TextUtils;
 
-import com.odehbros.flutter_file_downloader.MethodCallHandlerImpl;
-import com.odehbros.flutter_file_downloader.PluginLogger;
-import com.odehbros.flutter_file_downloader.StoreHelper;
-import com.odehbros.flutter_file_downloader.downloadDestination.AppData;
-import com.odehbros.flutter_file_downloader.downloadDestination.DownloadDestination;
-import com.odehbros.flutter_file_downloader.downloadDestination.PublicDownloads;
-import com.odehbros.flutter_file_downloader.downloader.DownloadManagerService;
-import com.odehbros.flutter_file_downloader.downloader.DownloadService;
-import com.odehbros.flutter_file_downloader.downloader.HttpDownload;
-import com.odehbros.flutter_file_downloader.notificationService.NotificationTexts;
+import com.sherazi.flutter_file_downloader.MethodCallHandlerImpl;
+import com.sherazi.flutter_file_downloader.PluginLogger;
+import com.sherazi.flutter_file_downloader.StoreHelper;
+import com.sherazi.flutter_file_downloader.downloadDestination.AppData;
+import com.sherazi.flutter_file_downloader.downloadDestination.DownloadDestination;
+import com.sherazi.flutter_file_downloader.downloadDestination.PublicDownloads;
+import com.sherazi.flutter_file_downloader.downloader.DownloadManagerService;
+import com.sherazi.flutter_file_downloader.downloader.DownloadService;
+import com.sherazi.flutter_file_downloader.downloader.HttpDownload;
+import com.sherazi.flutter_file_downloader.notificationService.NotificationTexts;
 
 import java.util.Map;
 

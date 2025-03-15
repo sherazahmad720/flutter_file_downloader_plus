@@ -1,9 +1,9 @@
-package com.odehbros.flutter_file_downloader.fileStore;
+package com.sherazi.flutter_file_downloader.fileStore;
 
 import android.text.TextUtils;
 
-import com.odehbros.flutter_file_downloader.PluginLogger;
-import com.odehbros.flutter_file_downloader.core.DownloadCallbacks;
+import com.sherazi.flutter_file_downloader.PluginLogger;
+import com.sherazi.flutter_file_downloader.core.DownloadCallbacks;
 
 import java.io.BufferedOutputStream;
 import java.io.File;

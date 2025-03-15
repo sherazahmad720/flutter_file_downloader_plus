@@ -1,18 +1,18 @@
-package com.odehbros.flutter_file_downloader.downloader;
+package com.sherazi.flutter_file_downloader.downloader;
 
 import android.app.Activity;
 import android.os.StrictMode;
 import android.text.TextUtils;
 
-import com.odehbros.flutter_file_downloader.MethodCallHandlerImpl;
-import com.odehbros.flutter_file_downloader.PluginLogger;
-import com.odehbros.flutter_file_downloader.StoreHelper;
-import com.odehbros.flutter_file_downloader.core.DownloadCallbacks;
-import com.odehbros.flutter_file_downloader.core.DownloadNotificationType;
-import com.odehbros.flutter_file_downloader.core.DownloadRequestMethodType;
-import com.odehbros.flutter_file_downloader.downloadDestination.DownloadDestination;
-import com.odehbros.flutter_file_downloader.notificationService.DownloadNotification;
-import com.odehbros.flutter_file_downloader.notificationService.NotificationTexts;
+import com.sherazi.flutter_file_downloader.MethodCallHandlerImpl;
+import com.sherazi.flutter_file_downloader.PluginLogger;
+import com.sherazi.flutter_file_downloader.StoreHelper;
+import com.sherazi.flutter_file_downloader.core.DownloadCallbacks;
+import com.sherazi.flutter_file_downloader.core.DownloadNotificationType;
+import com.sherazi.flutter_file_downloader.core.DownloadRequestMethodType;
+import com.sherazi.flutter_file_downloader.downloadDestination.DownloadDestination;
+import com.sherazi.flutter_file_downloader.notificationService.DownloadNotification;
+import com.sherazi.flutter_file_downloader.notificationService.NotificationTexts;
 
 import java.io.BufferedInputStream;
 import java.io.File;

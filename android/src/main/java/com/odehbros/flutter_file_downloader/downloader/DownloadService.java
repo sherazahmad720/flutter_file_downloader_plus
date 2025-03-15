@@ -1,15 +1,15 @@
-package com.odehbros.flutter_file_downloader.downloader;
+package com.sherazi.flutter_file_downloader.downloader;
 
 import android.app.Activity;
 import android.net.Uri;
 import android.text.TextUtils;
 
-import com.odehbros.flutter_file_downloader.StoreHelper;
-import com.odehbros.flutter_file_downloader.core.DownloadCallbacks;
-import com.odehbros.flutter_file_downloader.core.DownloadNotificationType;
-import com.odehbros.flutter_file_downloader.core.DownloadRequestMethodType;
-import com.odehbros.flutter_file_downloader.downloadDestination.DownloadDestination;
-import com.odehbros.flutter_file_downloader.fileStore.FileStoreHandler;
+import com.sherazi.flutter_file_downloader.StoreHelper;
+import com.sherazi.flutter_file_downloader.core.DownloadCallbacks;
+import com.sherazi.flutter_file_downloader.core.DownloadNotificationType;
+import com.sherazi.flutter_file_downloader.core.DownloadRequestMethodType;
+import com.sherazi.flutter_file_downloader.downloadDestination.DownloadDestination;
+import com.sherazi.flutter_file_downloader.fileStore.FileStoreHandler;
 
 import java.util.List;
 import java.util.Map;

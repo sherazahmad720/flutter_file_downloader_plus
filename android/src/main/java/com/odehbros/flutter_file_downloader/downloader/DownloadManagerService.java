@@ -1,4 +1,4 @@
-package com.odehbros.flutter_file_downloader.downloader;
+package com.sherazi.flutter_file_downloader.downloader;
 
 import android.app.Activity;
 import android.app.DownloadManager;
@@ -10,14 +10,14 @@ import android.os.Handler;
 import android.os.Looper;
 import android.util.Log;
 
-import com.odehbros.flutter_file_downloader.PluginLogger;
-import com.odehbros.flutter_file_downloader.StoreHelper;
-import com.odehbros.flutter_file_downloader.core.DownloadCallbacks;
-import com.odehbros.flutter_file_downloader.core.DownloadNotificationType;
-import com.odehbros.flutter_file_downloader.downloadDestination.AppData;
-import com.odehbros.flutter_file_downloader.downloadDestination.DownloadDestination;
-import com.odehbros.flutter_file_downloader.downloadDestination.PublicDownloads;
-import com.odehbros.flutter_file_downloader.fileStore.FileUtils;
+import com.sherazi.flutter_file_downloader.PluginLogger;
+import com.sherazi.flutter_file_downloader.StoreHelper;
+import com.sherazi.flutter_file_downloader.core.DownloadCallbacks;
+import com.sherazi.flutter_file_downloader.core.DownloadNotificationType;
+import com.sherazi.flutter_file_downloader.downloadDestination.AppData;
+import com.sherazi.flutter_file_downloader.downloadDestination.DownloadDestination;
+import com.sherazi.flutter_file_downloader.downloadDestination.PublicDownloads;
+import com.sherazi.flutter_file_downloader.fileStore.FileUtils;
 
 import java.util.Map;
 
