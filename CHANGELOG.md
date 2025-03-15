@@ -1,3 +1,6 @@
+## 2.0.2
+
+- Fixed namespace issue 
 ## 2.0.1-dev.1
 
 - Fixed bug when using both plugins `flutter_file_downloader` & `geolocator` [#52](https://github.com/abdallah-odeh/flutter_file_downloader/issues/52)
